@@ -1,1 +1,1 @@
-# IMDB_movie_analysis
+# IMDB_movies_analysis
